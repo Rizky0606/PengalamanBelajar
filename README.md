@@ -25,3 +25,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Rizky Fauzi Ardiansyah, [Linkedin](https://www.linkedin.com/in/rizky-fauzi-847828220/).
