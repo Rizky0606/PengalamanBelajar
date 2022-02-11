@@ -18,3 +18,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+# Volunter Pembuatan Aplikasi
+
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
+
+
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
